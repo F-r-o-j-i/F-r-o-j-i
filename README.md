@@ -1,3 +1,4 @@
+### About Me
 - 👋 Hi, I’m @F-r-o-j-i
 - 👀 I’m interested in coding Discord bots.
 - 🌱 I’m currently learning Javascript.
