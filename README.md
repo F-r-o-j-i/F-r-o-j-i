@@ -8,7 +8,7 @@
 ### Languages I Know
 
 ### My Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=F-r-o-j-i&_count=7&theme=tokyonight)
+![](https://github.com/F-r-o-j-i/github-stats#github-stats-visualization)
 
 ![](https://github-readme-stats.vercel.app/api/?username=F-r-o-j-i&count_private=true&theme=tokyonight&showicons=true)
 
