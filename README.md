@@ -22,7 +22,7 @@
 
 ## My Github Stats 🎉
 
-- ![](https://github-readme-stats.vercel.app/api/?username=F-r-o-j-i&count_private=true&theme=tokyonight&showicons=true)
+![](https://github-readme-stats.vercel.app/api/?username=F-r-o-j-i&count_private=true&theme=tokyonight&showicons=true)
 
 
 
