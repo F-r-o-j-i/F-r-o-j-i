@@ -8,7 +8,7 @@
 ### Languages I Know
 
 ### My Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=F-r-o-j-i_count=2&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/?username=F-r-o-j-i&count_private=true&theme=tokyonight&showicons=true)
 
