@@ -20,4 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=F-r-o-j-i&langs_count=5&theme=tokyonight)
 
 ![](https://media.tenor.co/videos/a94169a1d517b57c17ba40266c22c79a/mp4f)
+{{ Lang_List }} CSS
 
